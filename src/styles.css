@@ -134,6 +134,12 @@ footer a {
   display: grid;
   grid-gap: 50px;
 }
+.embed-video {
+  width: 100%;
+  border-radius: 6px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  aspect-ratio: 16/9;
+}
 .img-responsive {
   width: 100%;
   border-radius: 6px;
